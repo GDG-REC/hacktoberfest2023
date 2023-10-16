@@ -1,7 +1,6 @@
 Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
 Certainly! Here's the Markdown content that you can save in an MD file:
 
-```markdown
 # Hacktoberfest 2023 Repository
 
 Welcome to the Hacktoberfest 2023 repository! We're excited to have you here and encourage your contributions to this open-source project. Please take a moment to read through the guidelines and get started.
