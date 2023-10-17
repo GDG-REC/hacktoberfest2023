@@ -1,5 +1,3 @@
-# hacktoberfest
-# hacktoberfest-accepted
-# hacktoberfest2023
-
-Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
+# Web-development
+This directory is made exclusively for Web development projects.
+You guys can contribute your web projects here...
