@@ -1,6 +1,13 @@
 Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
+<<<<<<< HEAD
+
 Certainly! Here's the Markdown content that you can save in an MD file:
 
+```markdown
+=======
+Certainly! Here's the Markdown content that you can save in an MD file:
+
+>>>>>>> 9ee3064d71dfebcc3cc0d6b664596cc496ef254c
 # Hacktoberfest 2023 Repository
 
 Welcome to the Hacktoberfest 2023 repository! We're excited to have you here and encourage your contributions to this open-source project. Please take a moment to read through the guidelines and get started.
@@ -57,3 +64,8 @@ By contributing to this project, you agree that your contributions will be licen
 
 We look forward to your contributions! Happy Hacktoberfest!
 ```
+<<<<<<< HEAD
+
+You can create a new file in your repository with a `.md` extension and paste the above content into it. Don't forget to create and include the `CODE_OF_CONDUCT.md` and `LICENSE` files in your repository as mentioned in the document.
+=======
+>>>>>>> 9ee3064d71dfebcc3cc0d6b664596cc496ef254c
