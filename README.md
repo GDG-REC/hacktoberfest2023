@@ -1,20 +1,12 @@
-Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
-<<<<<<< HEAD
-
-Certainly! Here's the Markdown content that you can save in an MD file:
-
-```markdown
-=======
-Certainly! Here's the Markdown content that you can save in an MD file:
-
->>>>>>> 9ee3064d71dfebcc3cc0d6b664596cc496ef254c
 # Hacktoberfest 2023 Repository
 
 Welcome to the Hacktoberfest 2023 repository! We're excited to have you here and encourage your contributions to this open-source project. Please take a moment to read through the guidelines and get started.
 
 ## What is Hacktoberfest?
 
-Hacktoberfest is an annual celebration of open source software that encourages meaningful contributions to the open-source community. To participate, all you need to do is make four pull requests to open-source repositories on GitHub. You can learn more and sign up on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).
+Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
+
+To participate, all you need to do is make four pull requests to open-source repositories on GitHub. You can learn more and sign up on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).
 
 ## How to Contribute
 
@@ -63,9 +55,5 @@ We follow a Code of Conduct to ensure a welcoming and inclusive community. Pleas
 By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE). You may not use this project's name, trademarks, or logos without prior written permission from the project maintainers.
 
 We look forward to your contributions! Happy Hacktoberfest!
-```
-<<<<<<< HEAD
 
 You can create a new file in your repository with a `.md` extension and paste the above content into it. Don't forget to create and include the `CODE_OF_CONDUCT.md` and `LICENSE` files in your repository as mentioned in the document.
-=======
->>>>>>> 9ee3064d71dfebcc3cc0d6b664596cc496ef254c
