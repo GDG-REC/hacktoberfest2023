@@ -52,8 +52,6 @@ We follow a Code of Conduct to ensure a welcoming and inclusive community. Pleas
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE). You may not use this project's name, trademarks, or logos without prior written permission from the project maintainers.
+By contributing to this project, you agree that your contributions will be licensed under the [MIT License](./LICENSE). You may not use this project's name, trademarks, or logos without prior written permission from the project maintainers.
 
 We look forward to your contributions! Happy Hacktoberfest!
-
-You can create a new file in your repository with a `.md` extension and paste the above content into it. Don't forget to create and include the `CODE_OF_CONDUCT.md` and `LICENSE` files in your repository as mentioned in the document.
